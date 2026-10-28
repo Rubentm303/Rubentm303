@@ -51,7 +51,7 @@
 <table>
   <tr><th align="left">Periodo</th><th align="left">Rol</th><th align="left">Organización</th></tr>
   <tr><td><b>2025 — Actualidad</b></td><td>Profesor de Formación Profesional (IoT y Microcontroladores)</td><td>Taller Luban Nicaragua</td></tr>
-  <tr><td><b>2022 — 2025 — Jul. 2026</b></td><td>Desarrollador Full Stack</td><td>Media Solutions Online LLC</td></tr>
+  <tr><td><b>2022 — Jul. 2026</b></td><td>Desarrollador Full Stack</td><td>Media Solutions Online LLC</td></tr>
   <tr><td><b>2022 — 2025</b></td><td>Docente de Formación Virtual de programación con C# y SQL Server</td><td>INATEC</td></tr>
   <tr><td><b>2021</b></td><td>Ingeniero de Desarrollo Móvil y Web</td><td>Interscope Marketing</td></tr>
 </table>
@@ -161,39 +161,6 @@
 </table>
 
 <br/>
-
-<h3>Repositorios</h3>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/ProyectoLibros"><b>ProyectoLibros</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/products-API-NestJS"><b>products-API-NestJS</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/schedule-app-web"><b>schedule-app-web</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/schedule-api"><b>schedule-api</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/react-crud"><b>react-crud</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Rubentm303/mockjson"><b>mockjson</b></a><br/><br/>
-      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 

@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rubentm303.png?size=320" width="160" alt="Carlos Rubén Aguirre Parrales"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF26Soimn-2Uw/profile-displayphoto-scale_200_200/B4DZy6bphBIUAY-/0/1772654356521?e=1795046400&v=beta&t=zrYgCXUl2a0Z7Lm6W11-6mLiYDHUzUVDqMouQ812cj4" width="160" alt="Carlos Rubén Aguirre Parrales"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=React+%C2%B7+Node.js+%C2%B7+NestJS;Firmware+en+C+para+STM32+y+STC;Sistemas+IoT+de+extremo+a+extremo;Capacitado+en+IoT+en+China+%E2%80%94+Programa+EPIP;Aprendiendo+Rust+para+APIs+y+sistemas+embebidos" alt="Typing SVG"/>
 </p>
@@ -52,8 +51,8 @@
 <table>
   <tr><th align="left">Periodo</th><th align="left">Rol</th><th align="left">Organización</th></tr>
   <tr><td><b>2025 — Actualidad</b></td><td>Profesor de Formación Profesional (IoT y Microcontroladores)</td><td>Taller Luban Nicaragua</td></tr>
-  <tr><td><b>2025 — Jul. 2026</b></td><td>Desarrollador Full Stack</td><td>Media Solutions Online LLC</td></tr>
-  <tr><td><b>2022 — 2025</b></td><td>Docente de Formación Virtual</td><td>INATEC — Jinotepe, Carazo</td></tr>
+  <tr><td><b>2022 — 2025 — Jul. 2026</b></td><td>Desarrollador Full Stack</td><td>Media Solutions Online LLC</td></tr>
+  <tr><td><b>2022 — 2025</b></td><td>Docente de Formación Virtual de programación con C# y SQL Server</td><td>INATEC</td></tr>
   <tr><td><b>2021</b></td><td>Ingeniero de Desarrollo Móvil y Web</td><td>Interscope Marketing</td></tr>
 </table>
 
